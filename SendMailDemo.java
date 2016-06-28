@@ -1,8 +1,7 @@
 package sendEmail;
 
 /**
- * this demo shows how to use JavaMail API to shoot a email
- * @author siyaofu
+ * this demo shows how to use JavaMail API to shoot an email.
  *
  */
 
